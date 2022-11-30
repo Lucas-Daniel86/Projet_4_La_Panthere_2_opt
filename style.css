@@ -905,7 +905,6 @@ h4 {
     .site-navigation {
         position: inherit;
         transform: none;
-        -webkit-transform: none;
     }
     .nav > li {
         margin-top: 0;
