@@ -6169,7 +6169,6 @@ a.thumbnail:hover {
 .media,
 .media-body {
     overflow: hidden;
-    zoom: 1
 }
 
 .media-body {
@@ -7384,7 +7383,7 @@ button.close {
     line-height: 1
 }
 
-@media all and (transform-3d) {
+@media all {
     .carousel-inner>.item {
         transition: transform .6s ease-in-out;
         backface-visibility: hidden;
